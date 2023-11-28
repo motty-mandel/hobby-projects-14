@@ -22,7 +22,7 @@ npm run develop
 ```
 
 ## Description
-This project is a book search engine that lets you search for any book and then add
+This project is a book search engine built with Apollo Server that lets you search for any book and then add
 them to your favorites, view them in a favorites page and delete them if needed
 
 ## Usage
